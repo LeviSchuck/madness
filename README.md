@@ -1,6 +1,11 @@
 # Story
 
-**TODO: Add description**
+This is aimed to be a simple text game engine where players
+are presented with multiple choices to advance the game.
+Whereas games like [Zork]() use some basic language parsing,
+this skips that in the same way 
+[Choose your own adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure)
+books gave multiple choices.
 
 ## Installation
 
